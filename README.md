@@ -31,5 +31,5 @@ El proyecto está estructurado de manera modular para separar el backend analít
 
 **1. Clonar el repositorio e ingresar a la carpeta:**
 ```bash
-git clone [https://github.com/TU_USUARIO/claro-churn-prediction.git](https://github.com/TU_USUARIO/claro-churn-prediction.git)
+git clone https://github.com/luiscieza2022/claro-churn-prediction.git
 cd claro-churn-prediction
